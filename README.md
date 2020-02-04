@@ -1,7 +1,7 @@
 # PUBG Clustering Player Behavior for Cheaters (Hackers)
 
 <p align="center">
-  <img width="600" height="306" src="assets/PUBG_logo.png">
+  <img width="600" height="406" src="assets/PUBG_logo.png">
 </p>
 
 
