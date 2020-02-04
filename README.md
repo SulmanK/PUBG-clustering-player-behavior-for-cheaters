@@ -27,5 +27,4 @@
 	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)
 * Part II: Clustering
     * Utilize various clustering algorithms for detecting cheaters or hackers.
-* Part III: Dashboard
-    * EDA and Clustering deployed using a dashboard by Plotly-dash.
+
