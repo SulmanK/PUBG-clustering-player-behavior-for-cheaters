@@ -22,9 +22,9 @@
 ## Table of Contents:
 * Part I: Exploratory Data Analysis
     * EDA
-	* ![Jupyter Notebook](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_EDA-Dashboard.ipynb)
-	* ![Dashboard - PART I](https://pubg-eda-part1-dash.herokuapp.com)
-	* ![Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com)
+	* [Jupyter Notebook](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_EDA-Dashboard.ipynb)
+	* [Dashboard - PART I](https://pubg-eda-part1-dash.herokuapp.com)
+	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com)
 * Part II: Clustering
     * Utilize various clustering algorithms for detecting cheaters or hackers.
 * Part III: Dashboard
