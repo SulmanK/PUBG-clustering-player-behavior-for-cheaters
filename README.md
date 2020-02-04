@@ -1,4 +1,11 @@
 # PUBG Clustering Player Behavior for Cheaters (Hackers)
+
+<p align="center">
+  <img width="400" height="307" src="assets/PUBG_logo.png">
+</p>
+
+
+
 ## Objective
 * Complete Exploratory Data Analysis.
 * Utilize Machine Learning to cluster.
