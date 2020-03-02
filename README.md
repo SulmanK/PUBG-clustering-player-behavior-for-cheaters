@@ -12,12 +12,10 @@
 * Deploy a dashboard to report findings.
 	* [Dashboard - PART I](https://pubg-eda-part1-dash.herokuapp.com/)
 	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)
-	* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)
+	* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)	
+* Deploy an application for detecting hackers.
 	* [Hacker Detection Application](https://pubg-hacker-detection-app.herokuapp.com/)
 	
-	
-* Deploy an application for detecting hackers.
-
 ## Background Information
 * Playerunknown's Battleground (PUBG) is a video game, which set the standard for preceding games in the Battle Royale genre. The main goal is to SURVIVE at all costs.
 
