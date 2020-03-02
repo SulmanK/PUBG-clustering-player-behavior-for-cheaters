@@ -15,6 +15,7 @@
 	* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)	
 * Deploy an application for detecting hackers.
 	* [Hacker Detection Application](https://pubg-hacker-detection-app.herokuapp.com/)
+		* Please be patient in loading the application.
 	
 ## Background Information
 * Playerunknown's Battleground (PUBG) is a video game, which set the standard for preceding games in the Battle Royale genre. The main goal is to SURVIVE at all costs.
