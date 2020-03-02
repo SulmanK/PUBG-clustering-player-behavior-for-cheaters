@@ -26,7 +26,8 @@
 	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)
 * Part II: Clustering
     * Utilize various clustering algorithms for detecting cheaters or hackers.
-    		* [Jupyter Notebook: K-means](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-K-means.ipynb)
+    		
+		* [Jupyter Notebook: K-means](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-K-means.ipynb)
 		* [Jupyter Notebook: DBSCAN](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-DBSCAN.ipynb)
 		* [Jupyter Notebook: Anomaly Detection](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-AnomalyDetection.ipynb)
    * Utilize PCA + previous clustering algorithms (All features).
