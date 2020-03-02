@@ -10,6 +10,7 @@
 * Complete Exploratory Data Analysis.
 * Utilize Machine Learning to cluster.
 * Deploy a dashboard to report findings.
+* Deploy an application for detecting hackers.
 
 ## Background Information
 * Playerunknown's Battleground (PUBG) is a video game, which set the standard for preceding games in the Battle Royale genre. The main goal is to SURVIVE at all costs.
@@ -38,6 +39,11 @@
    		* [Jupyter Notebook: K-means](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-PCA-K-means(Selected%20Features).ipynb)
 		* [Jupyter Notebook: DBSCAN](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-PCA-DBSCAN(Selected%20Features).ipynb)
 		* [Jupyter Notebook: Anomaly Detection](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-PCA-AnomalyDetection(Selected%20Features).ipynb)
+    * Pertinent Deliverables
+    		* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)
+		* [Hacker Detection Application](https://pubg-hacker-detection-app.herokuapp.com/)
+
+		
 		
    		
 
