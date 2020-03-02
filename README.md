@@ -10,6 +10,12 @@
 * Complete Exploratory Data Analysis.
 * Utilize Machine Learning to cluster.
 * Deploy a dashboard to report findings.
+	* [Dashboard - PART I](https://pubg-eda-part1-dash.herokuapp.com/)
+	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)
+	* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)
+	* [Hacker Detection Application](https://pubg-hacker-detection-app.herokuapp.com/)
+	
+	
 * Deploy an application for detecting hackers.
 
 ## Background Information
@@ -23,8 +29,9 @@
 ## Table of Contents:
 * Part I: Exploratory Data Analysis
 	* [Jupyter Notebook](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_EDA-Dashboard.ipynb)
-	* [Dashboard - PART I](https://pubg-eda-part1-dash.herokuapp.com/)
-	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)
+	* [Dashboard -EDA PART I](https://pubg-eda-part1-dash.herokuapp.com/)
+	* [Dashboard -EDA PART 2](https://pubg-eda-part2-dash.herokuapp.com/)
+	
 * Part II: Clustering
     * Utilize various clustering algorithms for detecting cheaters or hackers.
     		
