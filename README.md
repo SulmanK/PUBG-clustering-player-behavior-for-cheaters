@@ -49,6 +49,12 @@
     		
 		* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)
 		* [Hacker Detection Application](https://pubg-hacker-detection-app.herokuapp.com/)
+
+
+
+![Demo](http://g.recordit.co/tAPhC7zBU6.gif)
+
+
 * References
 	* [1] M. Breunig, H. Kriegel, R. Ng and J. Sander, "LOF", ACM SIGMOD Record, vol. 29, no. 2, pp. 93-104, 2000. Available: 10.1145/335191.335388.
 	* [2] "Survey Report on K-Means Clustering Algorithm", International Journal of Modern Trends in Engineering & Research, vol. 4, no. 4, pp. 218-221, 2017. Available: 10.21884/ijmter.2017.4143.lgjzd.
