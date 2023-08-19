@@ -9,9 +9,9 @@
 ## Objective
 * Complete Exploratory Data Analysis.
 * Utilize Machine Learning to cluster.
-* Deploy a dashboard to report findings.
-	* [Dashboard - PART I](https://pubg-eda-part1-dash.herokuapp.com/)
-	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)
+* Deploy a dashboard to report findings. (The dashboards are offline. I have conserved costs for other important applications!)
+	* [Dashboard - PART I](https://pubg-eda-part1-dash.herokuapp.com/)  
+	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)  
 	* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)	
 * Deploy an application for detecting hackers.
 	* [Hacker Detection Application](http://pubg-hd.us-east-1.elasticbeanstalk.com/)
