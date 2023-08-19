@@ -14,7 +14,7 @@
 	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)
 	* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)	
 * Deploy an application for detecting hackers.
-	* [Hacker Detection Application](https://pubg-hacker-detection-app.herokuapp.com/)
+	* [Hacker Detection Application](http://pubg-hd.us-east-1.elasticbeanstalk.com/)
 		* Please be patient in loading the application.
 	
 ## Background Information
