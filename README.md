@@ -9,7 +9,7 @@
 ## Objective
 * Complete Exploratory Data Analysis.
 * Utilize Machine Learning to cluster.
-* Deploy a dashboard to report findings. (The dashboards are offline. I have conserved costs for other important applications!)
+* Deploy a dashboard to report findings. The dashboards are offline. I have conserved costs for other vital applications!
 	* [Dashboard - PART I](https://pubg-eda-part1-dash.herokuapp.com/)  
 	* [Dashboard - PART 2](https://pubg-eda-part2-dash.herokuapp.com/)  
 	* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)	
