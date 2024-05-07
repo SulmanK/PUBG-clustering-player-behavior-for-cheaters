@@ -48,7 +48,7 @@
     * Pertinent Deliverables
     		
 		* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)
-		* [Hacker Detection Application](http://pubg-hd-app.us-east-1.elasticbeanstalk.com/)
+		* [Hacker Detection Application](http://pubg-hd-env.eba-srm42prp.us-east-1.elasticbeanstalk.com/)
 
 
 ## Demo
