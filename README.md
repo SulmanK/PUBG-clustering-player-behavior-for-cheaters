@@ -46,8 +46,6 @@
 		* [Jupyter Notebook: DBSCAN](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-PCA-DBSCAN(Selected%20Features).ipynb)
 		* [Jupyter Notebook: Anomaly Detection](https://github.com/SulmanK/PUBG_clustering-player-behavior-for-cheaters/blob/master/PUBG_Clustering-PCA-AnomalyDetection(Selected%20Features).ipynb)
     * Pertinent Deliverables
-    		
-		* [Project Summary](https://pubg-hacker-detection-summary.herokuapp.com/)
 		* [Hacker Detection Application](http://pubg-hd-env.eba-srm42prp.us-east-1.elasticbeanstalk.com/)
 
 
