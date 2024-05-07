@@ -53,7 +53,7 @@
 
 ## Demo
 
-![Demo](http://g.recordit.co/tAPhC7zBU6.gif)
+![Demo](Animation.gif)
 
 
 * References
