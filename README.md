@@ -20,6 +20,27 @@
 ## Background Information
 * Playerunknown's Battleground (PUBG) is a video game, which set the standard for preceding games in the Battle Royale genre. The main goal is to SURVIVE at all costs.
 
+---
+## Repository Structure
+```plaintext
+PUBG-clustering-player-behavior-for-cheaters/
+├── assets/                                 # Directory containing asset files
+├── data/                                   # Directory containing data files
+├── Animation.gif                           # GIF demonstrating the project's functionality
+├── PUBG_Clustering-AnomalyDetection.ipynb  # Jupyter Notebook for anomaly detection analysis
+├── PUBG_Clustering-DBSCAN.ipynb            # Jupyter Notebook for DBSCAN clustering analysis
+├── PUBG_Clustering-K-means.ipynb           # Jupyter Notebook for K-means clustering analysis
+├── PUBG_Clustering-PCA-AnomalyDetection(All Features).ipynb  # PCA and anomaly detection on all features
+├── PUBG_Clustering-PCA-AnomalyDetection(Selected Features).ipynb  # PCA and anomaly detection on selected features
+├── PUBG_Clustering-PCA-DBSCAN(All Features).ipynb  # PCA and DBSCAN clustering on all features
+├── PUBG_Clustering-PCA-DBSCAN(Selected Features).ipynb  # PCA and DBSCAN clustering on selected features
+├── PUBG_Clustering-PCA-K-means(All Features).ipynb  # PCA and K-means clustering on all features
+├── PUBG_Clustering-PCA-K-means(Selected Features).ipynb  # PCA and K-means clustering on selected features
+├── PUBG_EDA-Dashboard.ipynb                # Jupyter Notebook for exploratory data analysis dashboard
+├── PUBG_Project Summary_Dashboard.ipynb    # Jupyter Notebook summarizing the project with a dashboard
+└── README.md                               # Overview of the repository
+```
+---
 ## Process:
 * Exploratory Data Analysis conducted utilizing various python packages (Numpy, Matplotlib, Pandas, and Plotly).
 * Clustering Algorithms (Sci-Kit Learn)
